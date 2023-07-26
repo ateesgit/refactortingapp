@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:refactortingapp/home.dart';
-
+/* it is a customising widget app */
 void main() {
   runApp(const MyApp());
 }
